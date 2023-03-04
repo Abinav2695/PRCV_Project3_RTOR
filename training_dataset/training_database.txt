@@ -1,0 +1,2 @@
+To train multiple images together for a single feature you can make a separate folder inside training_database folder and place all images of one single object.
+The use gui to train database in one go
